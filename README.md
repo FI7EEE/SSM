@@ -1,4 +1,4 @@
-<img src="Assets/LOGo/logo.png">
+# <img src="Assets/LOGo/Logo.png">
 # SSM
 ## Smart Space Monitoring
 ### Support BY :
