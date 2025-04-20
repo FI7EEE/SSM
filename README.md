@@ -14,6 +14,11 @@
 | 2123500029    | Khrisna P.Y                | Project Manager | [Khrisna](https://github.com/NurRohmatHidayat)
 | 2123500033    | Bintang Firgi               | UI/UX Full Stack Dev     | [FJee](https://github.com/EzarPrasetya)
 # Komponen 
+> Sensor PIR / Kamera AI → untuk deteksi keberadaan orang.
+> ESP32 / NodeMCU → mikrokontroler pengolah data sensor.
+> UART / MQTT / WiFi → komunikasi data antar perangkat.
+> Database (Firebase / MySQL) → menyimpan status ruangan dan data reservasi.
+> Web / Mobile App → untuk tampilan UI pengguna dan admin.
 # Desain 3D
 # Iklan Produk
 # Uji coba produk
