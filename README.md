@@ -1,12 +1,18 @@
 # SSM
-# Smart Space Monitoring
-# Support BY :
-Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
-Mata kuliah : Workshop Mikrokontroller<br>
-Program Studi : D3 Teknik Elektronika<br>
-Politeknik Elektronika Negeri Surabaya<br>
-# Team Member
-
+## Smart Space Monitoring
+### Support BY :
+>- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
+>- Mata kuliah : Workshop Mikrokontroller<br>
+>- Program Studi : D3 Teknik Elektronika<br>
+>- Politeknik Elektronika Negeri Surabaya<br>
+## Team Member
+|      NRP      |       Nama      |    Jobdesk    |   Akun |
+| :-----------:|:----------------:| :------------:| :-----:|
+| 2123500009    | Adrian Iqbal R  | Hardware Software       | [Adrian](https://github.com/Raditya-G)
+| 2123500016    | Royyan Firdaus M         |   Hardware Software | [Royyan](https://github.com/nataratungga)
+| 2123500026    | Aditya Wahyu W        |    UI/UX Full Stack Dev      | [Adit](https://github.com/Bismaap)
+| 2123500029    | Khrisna P.Y                | Project Manager | [Khrisna](https://github.com/NurRohmatHidayat)
+| 2123500033    | Bintang Firgi               | UI/UX Full Stack Dev     | [FJee](https://github.com/EzarPrasetya)
 # Komponen 
 # Desain 3D
 # Iklan Produk
