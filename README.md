@@ -1,4 +1,4 @@
-# <img src="Assets/LOGo/Logo Tim.png">
+# <img src="Assets/LOGo/logo Tim.png">
 # SSM
 #test
 ## Smart Space Monitoring
