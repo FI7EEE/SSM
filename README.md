@@ -6,7 +6,7 @@
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
 >- Mata kuliah : Workshop Mikrokontroller<br>
 >- Program Studi : D3 Teknik Elektronika<br>
->- Po<br>
+>- Po l i t e k n i k e  l e k t r o n i k a n e g e r i s u r a b a y a<br>
 ## Team Member
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
