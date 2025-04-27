@@ -1,1 +1,1 @@
-<img src="Desain UI-UX/SSM.png">
+# <img src="SSM.png">
