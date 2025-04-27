@@ -1,10 +1,12 @@
 # DEPAN
-# <img src="">
+# <img src="Depan.jpg">
 # BELAKANG
-# <img src="">
+# <img src="Belakang.jpg">
 # KANAN
-# <img src="">
+# <img src="Kanan.jpg">
 # KIRI
-# <img src="">
+# <img src="Kiri.jpg">
+# BAWAH
+# <img src="Bawah.jpg">
 
 
