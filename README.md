@@ -22,5 +22,7 @@
 >- Database (Firebase / MySQL) → menyimpan status ruangan dan data reservasi.
 >- Web / Mobile App → untuk tampilan UI pengguna dan admin.
 # Desain 3D
+<img src="Desain 3D [SSM]/3D Komponen2.png"><br>
+<img src="Desain 3D [SSM]/Bawah.jpg">
 # Iklan Produk
 # Uji coba produk
