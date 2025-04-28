@@ -10,7 +10,7 @@
 ## Team Member
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
-| 2123500009    | Adrian Iqbal R    | Software Developer    | [Adrian](https://github.com/AdrianIqbalR)
+| 2123500009    | Adrian Iqbal R    | Software              | [Adrian](https://github.com/AdrianIqbalR)
 | 2123500016    | Royyan Firdaus M  | Hardware Specialist   | [Royyan](https://github.com/nataratungga)
 | 2123500026    | Aditya Wahyu W    | 3D Design          | [Adit](https://github.com/AdityaWahyuW)
 | 2123500029    | Khrisna P.Y       | Project Manager       | [Khrisna](https://github.com/Khrisnapy)
