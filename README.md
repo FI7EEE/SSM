@@ -12,9 +12,9 @@
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
 | 2123500009    | Adrian Iqbal R    | Software Developer    | [Adrian](https://github.com/AdrianIqbalR)
 | 2123500016    | Royyan Firdaus M  | Hardware Specialist   | [Royyan](https://github.com/nataratungga)
-| 2123500026    | Aditya Wahyu W    | UI UX Design          | [Adit](https://github.com/AdityaWahyuW)
+| 2123500026    | Aditya Wahyu W    | 3D Design          | [Adit](https://github.com/AdityaWahyuW)
 | 2123500029    | Khrisna P.Y       | Project Manager       | [Khrisna](https://github.com/Khrisnapy)
-| 2123500033    | Bintang Firgi     | 3D Designer           | [Bintang](https://github.com/FI7EEE)
+| 2123500033    | Bintang Firgi     | UI UX Design           | [Bintang](https://github.com/FI7EEE)
 # Komponen 
 >- Sensor PIR / Kamera AI → untuk deteksi keberadaan orang.
 >- ESP32 / NodeMCU → mikrokontroler pengolah data sensor.
