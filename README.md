@@ -1,6 +1,6 @@
 # <img src="Desain UI-UX/Landing page .png">
 # SSM
-#test
+
 ## Smart Space Monitoring
 ### Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
