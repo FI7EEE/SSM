@@ -24,7 +24,9 @@
 # Desain 3D
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Desain%203D%20%5BSMM%5D/3D%20Komponen2.png"><center><br>
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Desain%203D%20%5BSMM%5D/Bawah.jpg"><center>
+# Desain 3D case
+# Cetak 3D
 # Blok Diagaram
-# Program
+# Simulasi Program
 # Iklan Produk
 # Uji coba produk
