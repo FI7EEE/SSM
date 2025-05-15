@@ -24,7 +24,7 @@
 # Hardware
 # <img src="Hardware/Skematik SSM.jpg">
 # <img src="Hardware/Layout SSM.jpg">
-
+# <img src="Hardware/3D hardware SSM.jpg"
 # Desain 3D
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Desain%203D%20%5BSMM%5D/3D%20Komponen2.png"><center><br>
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Desain%203D%20%5BSMM%5D/Bawah.jpg"><center>
