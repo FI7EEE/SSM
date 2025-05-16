@@ -14,6 +14,8 @@ Dengan integrasi antara antarmuka digital dan sensor fisik ini, Smart Space Mana
 
 
 # Tujuan
+# Tujuan Proyek:
+Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digital (Figma) yang terintegrasi dengan sensor DHT22, RCWL-0516, dan toggle switch untuk memungkinkan proses pemesanan, pemantauan kondisi lingkungan, serta deteksi keberadaan pengguna secara real-time tanpa penggunaan kamera, guna meningkatkan efisiensi pemanfaatan ruang dan menjaga privasi.
 ### Support BY :
 >- Dosen Pengampu : Akhmad Hendriawan ST., MT. (NIP.197501272002121003)<br>
 >- Mata kuliah : Workshop Mikrokontroller<br>
