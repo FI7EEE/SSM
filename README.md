@@ -30,8 +30,9 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 | 2123500029    | Khrisna P.Y       | Project Manager       | [Khrisna](https://github.com/Khrisnapy)
 | 2123500033    | Bintang Firgi     | UI UX Design           | [Bintang](https://github.com/FI7EEE)
 # Komponen 
->- Sensor PIR / Kamera AI → untuk deteksi keberadaan orang.
->- ESP32 / NodeMCU → mikrokontroler pengolah data sensor.
+>- RCWL 0516 / Sensor radar → untuk deteksi keberadaan orang.
+>- DHT22 / Sensor suhu  → untuk mengukur suhu dan kelembaban udara.
+>- Arduino nano / NodeMCU → mikrokontroler pengolah data sensor.
 >- UART / MQTT / WiFi → komunikasi data antar perangkat.
 >- Database (Firebase / MySQL) → menyimpan status ruangan dan data reservasi.
 >- Web / Mobile App → untuk tampilan UI pengguna dan admin.
