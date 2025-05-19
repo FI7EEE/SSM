@@ -45,7 +45,8 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 # Cetak 3D
 # Blok Diagaram
 # UI/UX
-
+### Frontend
+https://github.com/user-attachments/assets/d8675519-fc17-4f6d-9039-62dc81f8e6db
 # Simulasi Program
 ### Python
 https://github.com/user-attachments/assets/62945367-fcb9-4eea-a4f0-77a89578fbe8
