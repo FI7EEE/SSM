@@ -1,6 +1,5 @@
 # <img src="Desain UI-UX/Landing page .png">
 # SSM (Smart Space Monitoring)
-# Deskripsi
 # Deskripsi Proyek: Smart Space Management
 Smart Space Management adalah sebuah sistem inovatif yang dirancang untuk memudahkan proses pemesanan serta monitoring penggunaan ruangan secara real-time. Proyek ini bertujuan untuk meningkatkan efisiensi pemanfaatan ruang, khususnya di lingkungan perkantoran, kampus, atau fasilitas umum lainnya.
 Sistem ini memanfaatkan antarmuka pengguna yang dirancang melalui Figma, yang memberikan tampilan pemesanan ruangan yang intuitif dan mudah digunakan. Pengguna dapat melihat ketersediaan ruangan, melakukan reservasi, serta memantau status ruangan secara langsung melalui dashboard yang telah disiapkan.
@@ -13,7 +12,6 @@ Toggle Switch: Digunakan sebagai indikator manual kehadiran atau aktivitas di da
 Dengan integrasi antara antarmuka digital dan sensor fisik ini, Smart Space Management menawarkan solusi yang efisien, ramah privasi, dan mudah diimplementasikan untuk manajemen ruang yang lebih cerdas dan terorganisir.
 
 
-# Tujuan
 # Tujuan Proyek:
 Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digital (Figma) yang terintegrasi dengan sensor DHT22, RCWL-0516, dan toggle switch untuk memungkinkan proses pemesanan, pemantauan kondisi lingkungan, serta deteksi keberadaan pengguna secara real-time tanpa penggunaan kamera, guna meningkatkan efisiensi pemanfaatan ruang dan menjaga privasi.
 ### Support BY :
