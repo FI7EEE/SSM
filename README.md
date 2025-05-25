@@ -59,3 +59,12 @@ https://github.com/user-attachments/assets/db9ee1b4-200f-423a-942d-a19edf60ea9a
 https://github.com/user-attachments/assets/06786ef0-06cf-4453-9f95-b31134c98d04
 ##
 Pada sistem SSM ini menggunakan 2 input sensor dan 1 kamera untuk mengetahui status/kondisi ruangan sedang terpakai maupun ruangan sedang kosong. Disini kami menggunakan sensor radar RCWL 0516 sebagai sensor pendeteksi gerakan, sensor DHT 22 sebagai monitoring suhu ruangan, dan switch disini sebagai pengganti kamera. Apabila switch bernilai logic 1 (true) maka diibaratkan sebagai kamera yang mendeteksi keberadaan orang/ruangan sedang terpakai, sebaliknya apabila switch bernilai logic 0 (false) diibaratkan ruangan sedang kosong/tidak terpakai. Lalu output/hasil pembacaan data oleh sensor dan switch tadi dikirim ke database dan akan ditampilkan pada web admin pengelola ruangan. Dari data data tersebut admin bisa mengetahui status ketersediaan ruangan.
+# Panduan Penggunaan
+1. Pastikan perangkat sudah terkoneksi dengan daya.
+2. Akses web SSM pada Link berikut : https://smartspacemanagement-ba2ef.web.app/
+3. Login sebagai user jika ingin reservasi ruangan.
+4. Pada tampilan web user terdapat daftar ruangan yang tersedia ataupun sedang digunakan. Pada tampilan user juga terdapat fitur untuk reservasi yang akan terhubung ke web admin.
+5. Jika ingin reservasi ruangan, kirim data ruangan dan jam yang dipilih, maka data akan terkirim ke admin dan menunggu persetujuan.
+6. Login sebagai admin jika ingin mengakses web admin guna monitoring ruangan dan sistem.
+7. Admin dapat melihat data ruangan yang tersedia dan yang sedang digunakan, admin juga dapat menyetujui maupun menolak reservasi dari user.
+8. Jika permintaan di setujui maka user berhasil reservasi ruangan.
