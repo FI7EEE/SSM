@@ -19,7 +19,8 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 >- Mata kuliah : Workshop Mikrokontroller<br>
 >- Program Studi : D3 Teknik Elektronika<br>
 >- Politeknik Elektronika Negeri Surabaya<br>
-## Team Member
+## Anggota Tim
+# <img src="Assets/Foto TIM/Foto Anggota Tim.jpg">
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
 | 2123500009    | Adrian Iqbal R    | Software              | [Adrian](https://github.com/AdrianIqbalR)
