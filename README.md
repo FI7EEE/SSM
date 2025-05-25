@@ -19,7 +19,7 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 >- Mata kuliah : Workshop Mikrokontroller<br>
 >- Program Studi : D3 Teknik Elektronika<br>
 >- Politeknik Elektronika Negeri Surabaya<br>
-## Anggota Tim
+# Anggota Tim
 # <img src="Assets/Foto TIM/Foto Anggota Tim.jpg">
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
@@ -44,7 +44,8 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Desain%203D%20%5BSMM%5D/Bawah.jpg"><center>
 # Desain 3D case
 # Cetak 3D
-# Blok Diagaram
+# Blok Diagram
+# Diagram Arsitektur Sistem
 # UI/UX
 ### Frontend
 https://github.com/user-attachments/assets/d8675519-fc17-4f6d-9039-62dc81f8e6db
