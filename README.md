@@ -31,7 +31,7 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 # Komponen 
 >- RCWL 0516 / Sensor radar → untuk deteksi keberadaan orang.
 >- DHT22 / Sensor suhu  → untuk mengukur suhu dan kelembaban udara.
->- Switch (Pengganti Kamera) → untuk detekdi keberadaan orang dengan logic 0/1
+>- Switch (Pengganti Kamera) → untuk deteksi keberadaan orang dengan logic 0/1
 >- Arduino nano / NodeMCU → mikrokontroler pengolah data sensor.
 >- UART / MQTT / WiFi → komunikasi data antar perangkat.
 >- Database (Firebase / MySQL) → menyimpan status ruangan dan data reservasi.
