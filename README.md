@@ -50,6 +50,7 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 # <img src="https://github.com/FI7EEE/SSM/blob/main/3D%20Desain/Cetak3D.jpg"><center>
 # Blok Diagram
 # Diagram Arsitektur Sistem
+# <img src="https://github.com/FI7EEE/SSM/blob/main/Blok%20Diagram/blok%20diagram%20arsitektur.jpg"><center>
 # UI/UX
 ### Frontend
 https://github.com/user-attachments/assets/d8675519-fc17-4f6d-9039-62dc81f8e6db
