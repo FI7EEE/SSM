@@ -1,4 +1,4 @@
-# <img src="Desain UI-UX/Landing page .png">
+# <img src="Desain UI-UX/bg1.png">
 # SSM (Smart Space Monitoring)
 # Deskripsi Proyek: Smart Space Management
 Smart Space Management adalah sebuah sistem inovatif yang dirancang untuk memudahkan proses pemesanan serta monitoring penggunaan ruangan secara real-time. Proyek ini bertujuan untuk meningkatkan efisiensi pemanfaatan ruang, khususnya di lingkungan perkantoran, kampus, atau fasilitas umum lainnya.
