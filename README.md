@@ -51,6 +51,10 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 # <img src="https://github.com/FI7EEE/SSM/blob/main/3D%20Desain/Cetak3D.jpg"><center>
 # Blok Diagram
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Blok%20Diagram/Cuplikan%20layar%202025-05-26%20132701.png"><center>
+-Trigger Awal: Customer melakukan booking melalui sistem.
+-Sistem Aktif: Arduino Nano mulai membaca input dari sensor radar dan DHT-22.
+-Pengiriman Data: Data hanya dikirim jika ada pergerakan terdeteksi.
+-Interface Website: Menyajikan hasil monitoring secara real-time.
 # Diagram Arsitektur Sistem
 # <img src="https://github.com/FI7EEE/SSM/blob/main/Blok%20Diagram/blok%20diagram%20arsitektur.jpg"><center>
 # UI/UX
