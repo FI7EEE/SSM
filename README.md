@@ -55,14 +55,9 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 ### WebSite
 [https://github.com/user-attachments/assets/d8675519-fc17-4f6d-9039-62dc81f8e6db](https://github.com/user-attachments/assets/98683b24-d88b-4f35-aa60-ffe053077857)
 # Simulasi Program
-### Python
-https://github.com/user-attachments/assets/62945367-fcb9-4eea-a4f0-77a89578fbe8
-### PicsimLab 
-https://github.com/user-attachments/assets/db9ee1b4-200f-423a-942d-a19edf60ea9a
+https://github.com/user-attachments/assets/06786ef0-06cf-4453-9f95-b31134c98d04
 # Iklan Produk
 https://github.com/user-attachments/assets/8dcf32cc-ab39-48ea-9cd7-9ef755d4262f
-# Uji Coba Sistem
-https://github.com/user-attachments/assets/06786ef0-06cf-4453-9f95-b31134c98d04
 ##
 Pada sistem SSM ini menggunakan 2 input sensor dan 1 kamera untuk mengetahui status/kondisi ruangan sedang terpakai maupun ruangan sedang kosong. Disini kami menggunakan sensor radar RCWL 0516 sebagai sensor pendeteksi gerakan, sensor DHT 22 sebagai monitoring suhu ruangan, dan switch disini sebagai pengganti kamera. Apabila switch bernilai logic 1 (true) maka diibaratkan sebagai kamera yang mendeteksi keberadaan orang/ruangan sedang terpakai, sebaliknya apabila switch bernilai logic 0 (false) diibaratkan ruangan sedang kosong/tidak terpakai. Lalu output/hasil pembacaan data oleh sensor dan switch tadi dikirim ke database dan akan ditampilkan pada web admin pengelola ruangan. Dari data data tersebut admin bisa mengetahui status ketersediaan ruangan.
 # Panduan Penggunaan
