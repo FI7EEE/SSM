@@ -20,7 +20,7 @@ Merancang dan mengimplementasikan sistem manajemen ruang berbasis antarmuka digi
 >- Program Studi : D3 Teknik Elektronika<br>
 >- Politeknik Elektronika Negeri Surabaya<br>
 # Anggota Tim
-# <img src="https://github.com/FI7EEE/SSM/blob/main/profil%20SSM.png">
+# <img src="Assets/Foto TIM/Screenshot 2025-05-26 122535.png">
 |      NRP      |        Nama       |        Jobdesk        |                    Akun                  |
 | :-----------: |:----------------: | :-------------------: | :---------------------------------------:|
 | 2123500009    | Adrian Iqbal R    | Software              | [Adrian](https://github.com/AdrianIqbalR)
